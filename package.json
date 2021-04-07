@@ -1,0 +1,24 @@
+{
+  "name": "petproject-commands",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebrinmaster/petProject-Commands.git"
+  },
+  "author": "Aliaksei Bryniou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebrinmaster/petProject-Commands/issues"
+  },
+  "homepage": "https://github.com/lebrinmaster/petProject-Commands#readme"
+}
